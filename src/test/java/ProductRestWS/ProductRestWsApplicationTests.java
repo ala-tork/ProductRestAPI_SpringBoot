@@ -1,4 +1,4 @@
-package de.tekup.ProductRestWS;
+package ProductRestWS;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
